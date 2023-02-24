@@ -2,8 +2,8 @@ title: Kakenhi meeting 2023
 preposition: ''
 description: >-
   Kakahi meeting on March 9th - 10th in Kii Tanabe, Wakayama
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tuannq-nii.github.io/kakenhi2023/" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/kakenhi_2023" # the subpath of your site, e.g. /blog
+url: "https://il-nii.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
 markdown: kramdown
