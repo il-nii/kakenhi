@@ -1,4 +1,4 @@
 ---
-name: Room B
+name: Friday (March 10th)
 hide: true
 ---

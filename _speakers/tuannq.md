@@ -1,5 +1,5 @@
 ---
-name: Tuan Quoc Nguyen
+name: Tuan Nguyen
 first_name: Tuan
 last_name: Nguyen
 links:

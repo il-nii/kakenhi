@@ -3,7 +3,7 @@ name: Openning Talk
 speakers:
   - Katsumi Inoue
 categories:
-  - Cat A
+  - Cat 0
   - Talk
 # links:
 #   - name: Recodring
