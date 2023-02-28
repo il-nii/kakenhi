@@ -1,7 +1,7 @@
-title: Kakenhi meeting 2023
+title: KAKENHI meeting 2023
 preposition: ''
 description: >-
-  Kakahi meeting on March 9th - 10th in Kii Tanabe, Wakayama
+  KAKENHI meeting on March 9th - 10th in Kii Tanabe, Wakayama
 baseurl: "/kakenhi_2023" # the subpath of your site, e.g. /blog
 url: "https://il-nii.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -137,14 +137,14 @@ conference:
 
   map:
     # Initial map center point
-    home_coord: 33.73460921133032, 135.35231091148484
+    home_coord: 33.7306, 135.3663
     # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
     # The following do match the Bootstrap design not too badly:
     #   - Hydda.Full
     #   - Thunderforest.Neighbourhood
     #   - Esri.WorldTopoMap
-    map_provider: "OpenStreetMap.Mapnik"
-    default_zoom: 17
+    map_provider: "OpenStreetMap.DE"
+    default_zoom: 15
 
   talks:
     # Talk categories
