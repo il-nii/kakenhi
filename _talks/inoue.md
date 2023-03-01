@@ -3,7 +3,7 @@ name: Openning Talk
 speakers:
   - Katsumi Inoue
 categories:
-  - Cat 0
+  - Robust AI by Integration of KR and ML
   - Talk
 # links:
 #   - name: Recodring

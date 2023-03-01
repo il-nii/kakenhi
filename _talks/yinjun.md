@@ -1,9 +1,9 @@
 ---
-name: p Talk
+name: Yin Jun Phua
 speakers:
   - Yin Jun Phua
 categories:
-  - Cat C
+  - Integration of Neural Networks and Reasoning
   - Talk
 # links:
 #   - name: Recodring

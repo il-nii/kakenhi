@@ -1,9 +1,9 @@
 ---
-name: s Talk
+name: "Multi-Source Transfer Learning using Attention-Based Fusion of Multiple CNN Models"
 speakers:
   - Sota Moriyama
 categories:
-  - Cat D
+  - Logic and Computation for the Real World
   - Talk
 # links:
 #   - name: Recodring

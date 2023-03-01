@@ -1,9 +1,9 @@
 ---
-name: a Talk
+name: Akihiro Takemura
 speakers:
   - Akihiro Takemura
 categories:
-  - Cat C
+  - Learning Programs and Equations from raw data
   - Talk
 # links:
 #   - name: Recodring

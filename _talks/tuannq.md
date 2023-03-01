@@ -3,7 +3,7 @@ name: Computing Stable Models Efficiently in Linear Algebraic Computation
 speakers:
   - Tuan Nguyen
 categories:
-  - Cat C
+  - Logic and Computation for the Real World
   - Talk
 # links:
 #   - name: Recodring

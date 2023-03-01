@@ -1,9 +1,9 @@
 ---
-name: Explainability of Session-based Recommender System for OTT Business Decision
+name: "Explainability of Session-based Recommender System for OTT Business Decision"
 speakers:
   - Kotaro Okazaki 
 categories:
-  - Cat C
+  - Night Session
   - Talk
 # links:
 #   - name: Recodring

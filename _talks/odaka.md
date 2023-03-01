@@ -3,7 +3,7 @@ name: Data-Driven and Knowledge-Based Causal Network Discovery for Identifying D
 speakers:
   - Mitsuhiro Odaka
 categories:
-  - Cat C
+  - Learning Programs and Equations from raw data
   - Talk
 # links:
 #   - name: Recodring

@@ -3,7 +3,7 @@ name: Taking Advantage of Belief Change Theory for Concept Learning
 speakers:
   - Nicolas Schwind
 categories:
-  - Cat B
+  - Logic and Computation for the Real World
   - Talk
 # links:
 #   - name: Recodring
