@@ -1,5 +1,5 @@
 ---
-name: Towards the Explainability in AI: Past, Present, and Future
+name: Taking Advantage of Belief Change Theory for Concept Learning
 speakers:
   - Nicolas Schwind
 categories:

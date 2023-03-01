@@ -38,7 +38,7 @@ days:
       - name: Reception & Opening
         time_start: '8:30'
         time_end: '9:00'
-      - name: Towards the Explainability in AI: Past, Present, and Future
+      - name: Taking Advantage of Belief Change Theory for Concept Learning
         time_start: '9:00'
         time_end: '9:45'
       - name: Applying ASP Modulo Theories to Inductive Logic Programming 
