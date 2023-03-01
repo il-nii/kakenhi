@@ -1,9 +1,9 @@
 ---
-name: y Talk
+name: Ryota Yakushiji
 speakers:
   - Ryota Yakushiji
 categories:
-  - Cat D
+  - Learning Programs and Equations from raw data
   - Talk
 # links:
 #   - name: Recodring

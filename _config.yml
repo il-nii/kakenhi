@@ -149,16 +149,18 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Cat 0
+      - name: Robust AI by Integration of KR and ML
         color: primary
-      - name: Cat A
+      - name: Logic and Reasoning
         color: warning
-      - name: Cat B
+      - name: Night Session
         color: info
-      - name: Cat C
+      - name: Logic and Computation for the Real World
         color: secondary
-      - name: Cat D
+      - name: Learning Programs and Equations from raw data
         color: success
+      - name: Integration of Neural Networks and Reasoning
+        color: info
       - name: Discussion
         color: alert
       - name: Break

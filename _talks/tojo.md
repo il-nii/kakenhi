@@ -1,9 +1,9 @@
 ---
-name: ts Talk
+name: "Interior Semantics for Epistemic/Doxastic Logic"
 speakers:
   - Satoshi Tojo
 categories:
-  - Cat B
+  - Logic and Reasoning
   - Talk
 # links:
 #   - name: Recodring

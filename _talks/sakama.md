@@ -3,7 +3,7 @@ name: Human Conditional Reasoning in Answer Set Programming
 speakers:
   - Chiaki Sakama
 categories:
-  - Cat A
+  - Logic and Reasoning
   - Talk
 # links:
 #   - name: Recodring

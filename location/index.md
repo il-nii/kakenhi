@@ -21,7 +21,7 @@ Kii-Tanabe station bus stop
 
 Meiyo mae bus stop [timetable (click here)](https://www.ryujinbus.com/en/busstop/2442/)
 
-There is a free shuttle bus service from Kii-Tanabe station that departs at 14:40.
+There is a free shuttle bus service from Kii-Tanabe station that departs at 14:40. **If you wish to take this bus, please let us know by March 2nd 2023.**
 
 Taxi - 15~20 minutes from Kii-Tanabe station.
 
@@ -33,6 +33,10 @@ Taxi - 15~20 minutes from Kii-Tanabe station.
 * Limited Express 'Kuroshio', from Shin-Osaka to Kii-Tanabe
 
 Example itinerary from Tokyo to Kii-Tanabe: [Click here](https://goo.gl/maps/RJvBVT65U9fut9tx9)
+
+The last train from Tokyo to arrive by 3PM at the venue, departs at 09:30. [Click here](https://goo.gl/maps/YXtwKPNRRSW62UPH7)
+
+If you take this train, **you must take taxi from the station to the venue to arrive by 3PM.** (or, you have already informed us that you're taking the 14:40 shuttle bus to the hotel)
 
 ### From Osaka to Kii-Tanabe
 

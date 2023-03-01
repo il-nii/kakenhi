@@ -3,7 +3,7 @@ name: Graph Neural Networks for SAT Solving
 speakers:
   - Koji Watanabe
 categories:
-  - Cat C
+  - Integration of Neural Networks and Reasoning
   - Talk
 # links:
 #   - name: Recodring

@@ -3,7 +3,7 @@ name: Towards end-to-end ASP computation
 speakers:
   - Taisuke Sato
 categories:
-  - Cat A
+  - Robust AI by Integration of KR and ML
   - Talk
 # links:
 #   - name: Recodring

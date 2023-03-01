@@ -1,9 +1,9 @@
 ---
-name: om Talk
+name: Masayuki Otani
 speakers:
   - Masayuki Otani
 categories:
-  - Cat D
+  - Learning Programs and Equations from raw data
   - Talk
 # links:
 #   - name: Recodring

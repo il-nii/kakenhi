@@ -3,7 +3,7 @@ name: "Towards the Explainability in AI: Past, Present, and Future"
 speakers:
   - Teeradaj Racharak
 categories:
-  - Cat B
+  - Night Session
   - Talk
 # links:
 #   - name: Recodring

@@ -3,7 +3,7 @@ name: t Talk
 speakers:
   - Takeru Isobe
 categories:
-  - Cat D
+  - Logic and Computation for the Real World
   - Talk
 # links:
 #   - name: Recodring
