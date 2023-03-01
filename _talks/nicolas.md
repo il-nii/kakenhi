@@ -1,5 +1,5 @@
 ---
-name: On Stability and Consensus in Belief Improvement Games
+name: Towards the Explainability in AI: Past, Present, and Future
 speakers:
   - Nicolas Schwind
 categories:
