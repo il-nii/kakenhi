@@ -4,7 +4,7 @@ speakers:
   - Masayuki Otani
 categories:
   - Learning Programs and Equations from raw data
-  - Talk
+  - Extracting Explainable Rulesets from Multinomial Classification Model Using Answer Set Programming
 # links:
 #   - name: Recodring
 #     icon: video

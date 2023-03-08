@@ -4,7 +4,7 @@ speakers:
   - Akihiro Takemura
 categories:
   - Learning Programs and Equations from raw data
-  - Talk
+  - Supported model computation and unfounded set checking in vector spaces
 # links:
 #   - name: Recodring
 #     icon: video

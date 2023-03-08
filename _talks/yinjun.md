@@ -4,7 +4,7 @@ speakers:
   - Yin Jun Phua
 categories:
   - Integration of Neural Networks and Reasoning
-  - Talk
+  - Latent Concept Bottleneck: Gradual Learning and Bottlenecking to Increase Robustness
 # links:
 #   - name: Recodring
 #     icon: video

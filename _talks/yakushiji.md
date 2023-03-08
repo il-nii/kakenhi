@@ -4,7 +4,7 @@ speakers:
   - Ryota Yakushiji
 categories:
   - Learning Programs and Equations from raw data
-  - Talk
+  - Elucidating Cell Behavior under Radiation Using Machine Learning
 # links:
 #   - name: Recodring
 #     icon: video

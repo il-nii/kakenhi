@@ -59,13 +59,13 @@ days:
       - name: Lunch
         time_start: '11:30'
         time_end: '13:30'
-      - name: Akihiro Takemura
+      - name: Supported model computation and unfounded set checking in vector spaces
         time_start: '13:30'
         time_end: '14:00'
-      - name: Masayuki Otani
+      - name: "Extracting Explainable Rulesets from Multinomial Classification Model Using Answer Set Programming"
         time_start: '14:00'
         time_end: '14:20'
-      - name: Ryota Yakushiji
+      - name: "Elucidating Cell Behavior under Radiation Using Machine Learning"
         time_start: '14:20'
         time_end: '14:50'
       - name: "Data-Driven and Knowledge-Based Causal Network Discovery for Identifying Differential Equations"
@@ -74,7 +74,7 @@ days:
       - name: Break
         time_start: '15:20'
         time_end: '15:30'
-      - name: Yin Jun Phua
+      - name: "Latent Concept Bottleneck: Gradual Learning and Bottlenecking to Increase Robustness"
         time_start: '15:30'
         time_end: '16:15'
       - name: Fanqing Xu
