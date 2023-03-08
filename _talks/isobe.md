@@ -1,5 +1,5 @@
 ---
-name: Talk
+name: Learning Programs by Analyzing Hypothesis Space and Learning Process
 speakers:
   - Takeru Isobe
 categories:
