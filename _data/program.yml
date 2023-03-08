@@ -47,7 +47,7 @@ days:
       - name: "Multi-Source Transfer Learning using Attention-Based Fusion of Multiple CNN Models"
         time_start: '9:45'
         time_end: '10:05'
-      - name: Learning Programs by Analyzing Hypothesis Space and Learning Process
+      - name: "Learning Programs by Analyzing Hypothesis Space and Learning Process"
         time_start: '10:05'
         time_end: '10:25'
       - name: Applying ASP Modulo Theories to Inductive Logic Programming
