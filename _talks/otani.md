@@ -1,5 +1,5 @@
 ---
-name: Extracting Explainable Rulesets from Multinomial Classification Model Using Answer Set Programming
+name: "Extracting Explainable Rulesets from Multinomial Classification Model Using Answer Set Programming"
 speakers:
   - Masayuki Otani
 categories:

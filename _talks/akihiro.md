@@ -1,5 +1,5 @@
 ---
-name: Supported model computation and unfounded set checking in vector spaces
+name: "Supported model computation and unfounded set checking in vector spaces"
 speakers:
   - Akihiro Takemura
 categories:

@@ -1,5 +1,5 @@
 ---
-name: Latent Concept Bottleneck: Gradual Learning and Bottlenecking to Increase Robustness
+name: "Latent Concept Bottleneck: Gradual Learning and Bottlenecking to Increase Robustness"
 speakers:
   - Yin Jun Phua
 categories:

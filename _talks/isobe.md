@@ -1,5 +1,5 @@
 ---
-name: t Talk
+name: Talk
 speakers:
   - Takeru Isobe
 categories:

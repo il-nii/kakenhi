@@ -1,5 +1,5 @@
 ---
-name: Elucidating Cell Behavior under Radiation Using Machine Learning
+name: "Elucidating Cell Behavior under Radiation Using Machine Learning"
 speakers:
   - Ryota Yakushiji
 categories:
