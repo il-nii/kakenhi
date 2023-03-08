@@ -1,10 +1,10 @@
 ---
-name: Ryota Yakushiji
+name: Elucidating Cell Behavior under Radiation Using Machine Learning
 speakers:
   - Ryota Yakushiji
 categories:
   - Learning Programs and Equations from raw data
-  - Elucidating Cell Behavior under Radiation Using Machine Learning
+  - Talk
 # links:
 #   - name: Recodring
 #     icon: video

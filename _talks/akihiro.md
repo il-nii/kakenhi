@@ -1,10 +1,10 @@
 ---
-name: Akihiro Takemura
+name: Supported model computation and unfounded set checking in vector spaces
 speakers:
   - Akihiro Takemura
 categories:
   - Learning Programs and Equations from raw data
-  - Supported model computation and unfounded set checking in vector spaces
+  - Talk
 # links:
 #   - name: Recodring
 #     icon: video

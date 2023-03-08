@@ -1,10 +1,10 @@
 ---
-name: Yin Jun Phua
+name: Latent Concept Bottleneck: Gradual Learning and Bottlenecking to Increase Robustness
 speakers:
   - Yin Jun Phua
 categories:
   - Integration of Neural Networks and Reasoning
-  - Latent Concept Bottleneck: Gradual Learning and Bottlenecking to Increase Robustness
+  - Talk
 # links:
 #   - name: Recodring
 #     icon: video
