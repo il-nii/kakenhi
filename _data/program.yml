@@ -68,7 +68,7 @@ days:
       - name: "Elucidating Cell Behavior under Radiation Using Machine Learning"
         time_start: '14:20'
         time_end: '14:50'
-      - name: "Data-Driven and Knowledge-Based Causal Network Discovery for Identifying Differential Equations"
+      - name: "Learning Causal Network from Multivariate Time Series for Identifying Differential Equations of Dynamical Systems"
         time_start: '14:50'
         time_end: '15:20'
       - name: Break
