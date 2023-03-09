@@ -1,5 +1,5 @@
 ---
-name: Data-Driven and Knowledge-Based Causal Network Discovery for Identifying Differential Equations
+name: Learning Causal Network from Multivariate Time Series for Identifying Differential Equations of Dynamical Systems
 speakers:
   - Mitsuhiro Odaka
 categories:
